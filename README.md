@@ -2,7 +2,7 @@
 **Senior Software Testing Engineer | Automation Enthusiast | Tech Explorer**
 Welcome to my GitHub! I’m passionate about delivering high-quality software through robust testing strategies and innovative automation solutions. 🌟
 ## About Me
-- 🌍 Currently based in Dubai, open to global opportunities (including London).
+- 🌍 Currently based in Dubai, open to global opportunities.
 - 🎓 Electronics & Communication Engineering graduate from Amity University.
 - 💼 Over 5 years of experience in QA and Automation Testing with expertise in Selenium, TestNG, JIRA, Postman, and CI/CD pipelines.
 - 🏆 Certified in ISTQB, PCEP, and IBM Agile Explorer.
@@ -17,5 +17,4 @@ Welcome to my GitHub! I’m passionate about delivering high-quality software th
 - 📧 [Email](mailto:sanskriti2501@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sanskriti-yadav)
 - 📸 [Instagram: Life in Dubayy](https://www.instagram.com/lifeindubayy)
-![Sanskriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanskritiAYadav&show_icons=true&theme=radical)
 
