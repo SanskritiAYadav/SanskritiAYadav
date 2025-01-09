@@ -17,5 +17,5 @@ Welcome to my GitHub! I’m passionate about delivering high-quality software th
 - 📧 [Email](mailto:sanskriti2501@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sanskriti-yadav)
 - 📸 [Instagram: Life in Dubayy](https://www.instagram.com/lifeindubayy)
-![Sanskriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![Sanskriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanskritiAYadav&show_icons=true&theme=radical)
 
