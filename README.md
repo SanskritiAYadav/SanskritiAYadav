@@ -13,16 +13,9 @@ Welcome to my GitHub! I’m passionate about delivering high-quality software th
 ![JIRA](https://img.shields.io/badge/JIRA-%230052CC.svg?style=flat&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-## 🚀 Featured Projects
-- **[Automated Regression Testing Suite](https://github.com/username/automated-testing-suite)**  
-  A comprehensive framework for automating API and UI testing using Selenium and Postman.
-- **[Defect Management Dashboard](https://github.com/username/defect-management-dashboard)**  
-  A JIRA-integrated tool to streamline defect tracking and reporting.
-- **[Finance Operations Bug Tracker](https://github.com/username/finance-ops-bug-tracker)**  
-  Real-time prioritization system for production bugs in financial applications.
 ## 📫 Let's Connect!
 - 📧 [Email](mailto:sanskriti2501@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sanskriti-yadav)
-- 📸 [Instagram: Life in Dubayy](https://www.instagram.com/life_in_dubayy)
+- 📸 [Instagram: Life in Dubayy](https://www.instagram.com/lifeindubayy)
 ![Sanskriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
 
