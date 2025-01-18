@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m passionate about delivering high-quality software th
 - 🎓 Electronics & Communication Engineering graduate from Amity University.
 - 💼 Over 5 years of experience in QA and Automation Testing with expertise in Selenium, TestNG, JIRA, Postman, and CI/CD pipelines.
 - 🏆 Certified in ISTQB, PCEP, and IBM Agile Explorer.
-- 🌟 Experienced in domains like finance, supply chain, pricing, and operations.
+- 🌟 Experienced in domains like finance,operations, banking and airline.
 ## 🛠️ Skills
 ![Selenium](https://img.shields.io/badge/Selenium-%23092E20.svg?style=flat&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-%2340AEF0.svg?style=flat&logo=testng&logoColor=white)
