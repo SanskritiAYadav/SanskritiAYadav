@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m passionate about delivering high-quality software th
 ## About Me
 - 🌍 Currently based in Dubai, open to global opportunities.
 - 🎓 Electronics & Communication Engineering graduate from Amity University.
-- 💼 Over 5 years of experience in QA and Automation Testing with expertise in Selenium, TestNG, JIRA, Postman, and CI/CD pipelines.
+- 💼 Over 5 years of experience in QA and Automation Testing with expertise in Selenium, TestNG, JIRA, Postman, Playwright and CI/CD pipelines.
 - 🏆 Certified in ISTQB, PCEP, and IBM Agile Explorer.
 - 🌟 Experienced in domains like finance,operations, banking and airline.
 ## 🛠️ Skills
