@@ -7,7 +7,7 @@ Welcome to my GitHub! I’m passionate about delivering high-quality software th
 - 💼 Over 5 years of experience in QA and Automation Testing with expertise in Selenium, Appium, JIRA, Postman, Cypress, Playwright, and CI/CD pipelines.
 - 🏆 Certified in ISTQB, PCEP, and IBM Agile Explorer.
 - 🏆 Microsoft AI Product Manager Professional Certificate
-- 🌟 Experienced in domains like finance, operations, banking, and airline.
+- 🌟 Experienced in domains like finance, operations, and supply-chain.
 ## 🛠️ Skills
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
